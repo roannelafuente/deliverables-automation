@@ -16,3 +16,8 @@ It automates repetitive reporting tasks by:
 
 ## Impact
 By automating manual reporting, this tool reduces errors and saves significant time, making deliverables audit-ready and efficient.
+
+## Author
+Rose Anne Lafuente  
+Product Engineer II | Python Automation | GUI Design  
+GitHub: [@roannelafuente](https://github.com/roannelafuente)
