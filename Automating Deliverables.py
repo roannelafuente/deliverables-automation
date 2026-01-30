@@ -8,7 +8,7 @@ import xlwings as xw
 from datetime import datetime
 
 # Deliverables Automation Tool
-# Author: Roanne Lafuente
+# Author: Rose Anne Lafuente
 # Description: Automates CSV to Excel workflows with pivot tables,
 # customized formatting, and validation checks for deliverables reporting.
 
@@ -583,4 +583,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = AutomatingDeliverables(root)
     root.mainloop()
+
 
